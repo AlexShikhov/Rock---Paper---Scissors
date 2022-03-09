@@ -7,32 +7,32 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "5651183A-1BD9-4DB4-AF9F-66DA95923DF8"
-            shouldBeEnabled = "No"
+            uuid = "217F47D8-FD88-479F-9E69-C33C347CF414"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Rock, Paper, Scissors/ViewController.swift"
+            filePath = "Rock, Paper, Scissors/Model.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "getRandom()"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "endOfGameCheck()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "BE2C9B35-AE19-4B57-8441-7F85A2BF7BD3"
+            uuid = "F3F13906-41B7-439F-912B-F3D3202FEBCA"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Rock, Paper, Scissors/ViewController.swift"
+            filePath = "Rock, Paper, Scissors/Model.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "71"
-            endingLineNumber = "71"
-            landmarkName = "rockButton(_:)"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "endOfGameCheck()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
